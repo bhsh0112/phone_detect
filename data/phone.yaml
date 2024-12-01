@@ -1,0 +1,9 @@
+train: /home/ricky/sh/yolov5/data/phone/dataSet_path/train.txt
+val: /home/ricky/sh/yolov5/data/phone/dataSet_path/val.txt
+
+#number of classes
+nc: 1
+
+#class names
+names: ["phone"]
+
